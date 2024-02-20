@@ -1,0 +1,5 @@
+Azure Data Studio:
+	- hallgato
+	- Password123
+	- sqlgyak.database.windows.net
+	- sqlgyak
